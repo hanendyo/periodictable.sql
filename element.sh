@@ -19,5 +19,6 @@ then
       done
     fi
 else
+  # if i should have stay
   echo "Please provide an element as an argument."
 fi
